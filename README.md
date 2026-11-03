@@ -67,3 +67,7 @@ python clean_cars.py && python train_car_model.py && python export_car_web.py ..
 ## Security note
 
 An IBM Cloud API key (`apikey.json`) was committed in this repository's early history. Revoke it in IBM Cloud → Manage → Access (IAM) → API keys.
+
+## Licence
+
+Copyright © 2024–2026 Biggyat Kumar Pandey. All rights reserved. The code is public for viewing only; see [LICENSE](LICENSE). For permission to use it, email bigyatz123@gmail.com.
